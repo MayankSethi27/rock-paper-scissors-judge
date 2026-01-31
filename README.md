@@ -154,4 +154,3 @@ Invalid or unclear inputs always waste the turn.
 - Add confidence scoring for intent interpretation
 - Improve recovery from malformed model output
 - Move bot strategy reasoning into the AI Judge
-- Extend the judge to support additional game rules dynamically
